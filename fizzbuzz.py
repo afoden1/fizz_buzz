@@ -1,3 +1,6 @@
+# Fizz Buzz playing code to learn pythin basics
+# Created 14/08/2022
+
 ii = 1
 x = int(input("How high would you like to go?\n"))
 
